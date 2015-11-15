@@ -11,6 +11,10 @@ To go to your Packages folder: **Menu > Preferences > Browse Packages...**
 
 [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/)
 
-PLUGIN  | TRIGGER  
-------------- | ------------- 
-[Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/) | `owl-carousel-2` 
+PLUGIN  | TRIGGER | CODE 
+------------- | ------------- | ------------- 
+[Backbone + Undescore + jQuery](http://backbonejs.org/) | `backbone:cdn` | Code Snippet (JS, CDN)
+[Backbone + CoffeeScript in the Browser](http://coffeescript.org/) | `bbcoffee` | Code Snippet (JS)
+[Google Maps API - Simple Map](https://developers.google.com/maps/documentation/javascript/examples/map-simple) | `google-maps:full` | Full Code
+[Google Maps API - Simple Map](https://developers.google.com/maps/documentation/javascript/examples/map-simple) | `google-maps:code` | Code Snippet (JS+HTML)
+[Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/) | `owl-carousel-2:full` | Full Code
