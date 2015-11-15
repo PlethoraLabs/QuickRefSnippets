@@ -21,4 +21,4 @@ PLUGIN  | TRIGGER | CODE
 
 ### Example:
 
-![Alt text](/example.gi)
+![Alt text](/example.gif)
