@@ -64,6 +64,6 @@ jQuery(function(\$){
 </html>    
 
 ]]></content>
-    <tabTrigger>owl-carousel-2</tabTrigger>
+    <tabTrigger>owl-carousel-2:full</tabTrigger>
     <!-- <scope>source.html</scope> -->
 </snippet>
