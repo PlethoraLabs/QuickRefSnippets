@@ -18,3 +18,7 @@ PLUGIN  | TRIGGER | CODE
 [Google Maps API - Simple Map](https://developers.google.com/maps/documentation/javascript/examples/map-simple) | `google-maps:full` | Full Code
 [Google Maps API - Simple Map](https://developers.google.com/maps/documentation/javascript/examples/map-simple) | `google-maps:code` | Code Snippet (JS+HTML)
 [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/) | `owl-carousel-2:full` | Full Code
+
+### Example:
+
+![Alt text](/example.gi)
